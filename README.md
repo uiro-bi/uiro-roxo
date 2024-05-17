@@ -1,17 +1,17 @@
 
 - Tema [Hugo Roxo](https://themes.gohugo.io/themes/roxo-hugo/)
 
-### Rodar o site local 
-- Comandos
-    - Para inicializar o site localmente
-    - Clone o repositório
-    - use o seguinte comando:
-	- ```bash 
-        hugo server
-        ```
-    - inicializa o site na porta 1313
+### Guia para rodar o site local 
+
+- Clonar o repositório
+- Acesse a pasta raiz do diretório
+- use o seguinte comando:
+```bash 
+hugo server
+```
+- Basta abrir o navegador e digitar http://localhost:1313
     
-### Criar repositório padrão do Hugo com Site
+### Guia de criação do Site Hugo e implementação do Tema Roxo
     
 - [Ver guia](https://medium.com/@kiaeisinga/publishing-a-hugo-website-with-the-papermod-theme-to-gitlab-pages-efb9c7ae102e)
 1. hugo new site uiro-roxo

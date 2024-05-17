@@ -1,5 +1,10 @@
 
-- Tema [Hugo Roxo](https://themes.gohugo.io/themes/roxo-hugo/)
+
+## Índice
+- [Guia para rodar o site local](#Guia-para-rodar-o-site-local)
+- [Guia de criação do Site Hugo e implementação do Tema Roxo](#Guia-de-criação-do-Site-Hugo-e-implementação-do-Tema-Roxo)
+- [Guia de desenvolvimento do Site](#Guia-de-desenvolvimento-do-Site)
+
 
 ### Guia para rodar o site local 
 
@@ -12,7 +17,7 @@ hugo server
 - Basta abrir o navegador e digitar http://localhost:1313
     
 ### Guia de criação do Site Hugo e implementação do Tema Roxo
-    
+- Tema [Hugo Roxo](https://themes.gohugo.io/themes/roxo-hugo/)    
 - [Ver guia](https://medium.com/@kiaeisinga/publishing-a-hugo-website-with-the-papermod-theme-to-gitlab-pages-efb9c7ae102e)
 1. hugo new site uiro-roxo
 2. cd uiro-roxo
@@ -37,4 +42,6 @@ hugo server
     - *static*: contém elementos estáticos como imagens, CSS, JavaScript, fontes... O hugo não processa esses arquivos ele só compila;
     - *resources*: Arquivos processados e cache do Hugo. Ex minified CSS/JS, imagens modificadas;
     - *config.toml:* configs do site e parâmetros que definem como o site é construido e como ele se comporta;
-        
+ 
+
+### Guia de desenvolvimento do Site

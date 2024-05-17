@@ -71,8 +71,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
+    heading               = "A fonte de dados sobre bioeconomia na Amazônia"
+    tagline               = "Finnest data engineering at your touch"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"

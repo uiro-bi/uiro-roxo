@@ -45,3 +45,5 @@ hugo server
  
 
 ### Guia de desenvolvimento do Site
+#### **config.toml** 
+- É o arquivo que guarda a estrutura do site. Títulos, menus..... São todos definidos aqui.

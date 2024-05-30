@@ -47,3 +47,15 @@ hugo server
 ### Guia de desenvolvimento do Site
 #### **config.toml** 
 - É o arquivo que guarda a estrutura do site. Títulos, menus..... São todos definidos aqui.
+
+#### **Gerindo e criando Conteúdo**
+- Cada página tem sua estrutura de pastas para armazenar o conteúdo em documentos markdown
+![image](https://github.com/uiro-bi/uiro-roxo/assets/153785820/37710568-aaa1-4d9f-9da4-b7dae19e70c2)
+- Cada pasta de **content** tem um arquivo **_index.MD** que contém o heading das páginas seguindos por aquivos **MD** com o conteúdo
+
+#### **Customizando o site**
+- folder **data**
+- folder **static/images**
+armazena imagens usadas no background e nos tópicos do site. As pastas tem o mesmo nome dos menus de navegação
+![image](https://github.com/uiro-bi/uiro-roxo/assets/153785820/89c7e542-9d0e-4079-8d3b-c7b9310f3e6b)
+

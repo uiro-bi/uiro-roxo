@@ -59,3 +59,6 @@ hugo server
 armazena imagens usadas no background e nos tópicos do site. As pastas tem o mesmo nome dos menus de navegação
 ![image](https://github.com/uiro-bi/uiro-roxo/assets/153785820/89c7e542-9d0e-4079-8d3b-c7b9310f3e6b)
 
+- Editar o time
+**data/team.yml** - Cria cards com descrição dos integrantse da equipe
+**static/images/team** - Contém fotos linkadas com imagem que serão renderizadas

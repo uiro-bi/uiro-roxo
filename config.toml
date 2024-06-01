@@ -31,7 +31,7 @@ summarylength = 25
 # Site Params
 [params]
   logo = "images/new_logo.png"
-  #logo_footer = "images/new_logo_footer.png"
+  logo_footer = "images/new_logo_footer.png"
   favicon_icon = "images/favicon.ico"
   favicon_shortcut_icon = "images/favicon.png"
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
@@ -42,23 +42,23 @@ summarylength = 25
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl"
+  fabform  = "https://fabform.io/f/rVz9-bs"
 
   # Contact Form
   [params.contactForm]
     placeholder_first_name        = "Nome"
     placeholder_last_name         = "Sobrenome"
     placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
-    send_message                  = "Send Message"
+    placeholder_project_type      = "Segmento de Atuação"
+    placeholder_about_the_project = "Descreva sua demanda"
+    send_message                  = "Envie a mensagem"
 
     [[params.contactForm.projectType]]
       value = "gd"
-      title  = "Graphics Design"
+      title  = "Alimentos e Bebidas"
     [[params.contactForm.projectType]]
       value = "wd"
-      title  = "Web Design"
+      title  = "Cosméticos"
   
   # Navbar Action Button
   [params.navAction]
@@ -83,15 +83,15 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "Nossos trabalhos recentes"
-    subtitle  = "Inteligência de mercado da amazônia para amaz."
+    title     = "Confira nosso portfolio"
+    subtitle  = "Veja nossos relatórios, dashboards e análises"
     view_project = "view project"
     more_works = "MORE WORKS"
     scroll_down = "scroll down"
 
   [params.call_to_action]
     enable              = true
-    background_image    = "images/backgrounds/cta-background.jpg"
+    background_image    = "images/backgrounds/pastel-background.png"
     title               = "Vamos Trabalhar Juntos"
     primary_button      = "Contate-nos"
     primary_button_url  = "contact"
@@ -128,8 +128,8 @@ summarylength = 25
           name = "Instagram"
           url  = "#"
       # Footer Service
-      [params.footer.service]
-        title       = "Ajudamos negócios:"
-        description = "Soluções de captura de dados<br>produce valuable cultural content<br>create fresh brand experience"
+      #[params.footer.service]
+      #  title       = "Ajudamos negócios da bieoconomia:"
+      #  description = "Soluções de captura de dados<br>produce valuable cultural content<br>create fresh brand experience"
       [params.footer.back_to_top]
         description = "Volte para<br> o início do site"

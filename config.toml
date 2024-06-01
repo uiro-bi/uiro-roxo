@@ -107,20 +107,20 @@ summarylength = 25
       phone   = "(91) 99300-1347"
       email   = "gabriel.pisa@uiro.io"
       # Footer Sitemap
-      [params.footer.sitemap]
-        title   = "Navegue pelo Site"
-        [[params.footer.sitemap.link]]
-          name = "About Company"
-          url  = "about"
-        [[params.footer.sitemap.link]]
-          name = "Portfolio"
-          url  = "portfolio"
-        #[[params.footer.sitemap.link]]
-        #  name = "Blog"
-        #  url  = "blog"
-        [[params.footer.sitemap.link]]
-          name = "Contact"
-          url  = "contact"
+      # [params.footer.sitemap]
+      #   title   = "Navegue pelo Site"
+      #   [[params.footer.sitemap.link]]
+      #     name = "Sobre"
+      #     url  = "about"
+      #   [[params.footer.sitemap.link]]
+      #     name = "Portfolio"
+      #     url  = "portfolio"
+      #   #[[params.footer.sitemap.link]]
+      #   #  name = "Blog"
+      #   #  url  = "blog"
+      #   [[params.footer.sitemap.link]]
+      #     name = "Contato"
+      #     url  = "contact"
       # Footer Social Media
       [params.footer.social]
         title   = "Mídias Sociais"

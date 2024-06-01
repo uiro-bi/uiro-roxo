@@ -19,10 +19,10 @@ summarylength = 25
     name    = "Portfolio"
     url     = "portfolio"
     weight  = 3
-  [[menu.nav]]
-    name    = "Blog"
-    url     = "blog"
-    weight  = 4
+  # [[menu.nav]]
+  #   name    = "Blog"
+  #   url     = "blog"
+  #   weight  = 4
   [[menu.nav]]
     name    = "Contato"
     url     = "contact"
@@ -70,7 +70,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
+    background_image      = "images/backgrounds/cta-background.png"
     heading               = "Inteligência de mercado para a bioeconomia na Amazônia"
     tagline               = "Engenharia de dados de ponta a sua disposição"
     primary_button        = "Veja nosso trabalho"

@@ -1,14 +1,11 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Os números do nosso mapeamento"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Empresas da Bioeconomia Mapeadas"
+    number: "1.520"
 
-  - title: "Projects Completed"
-    number: "100"
-
-  - title: "Cups of coffee"
-    number: "350"
-
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Segmentos de Alimentos e Bebidas e Cosméticos"
+    number: "988"
+  
+  - title: "Produtos produzidos pelas empresas mapeados"
+    number: "1032"

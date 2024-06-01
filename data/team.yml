@@ -1,10 +1,9 @@
 enable  : true
 title   : Nosso time
 members  :
-  - image       : images/team/team-member-one.jpg
+  - image       : images/team/test.png
     name        : Gabriel Pisa
-    designation : Fundador e CTO
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
+    designation : Fundador, CEO e CTO. Gabriel é Economista e Engenheiro de dados.
+    linkedin    : https://www.linkedin.com/in/gabriel-pisa/
     instagram   : https://www.instagram.com/
 

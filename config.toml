@@ -59,6 +59,9 @@ summarylength = 25
     [[params.contactForm.projectType]]
       value = "wd"
       title  = "Cosméticos"
+    [[params.contactForm.projectType]]
+      value = "gd"
+      title  = "Outros"
   
   # Navbar Action Button
   [params.navAction]
@@ -85,9 +88,9 @@ summarylength = 25
     enable    = true
     title     = "Confira nosso portfolio"
     subtitle  = "Veja nossos relatórios, dashboards e análises"
-    view_project = "view project"
+    view_project = "Veja o projeto"
     more_works = "MORE WORKS"
-    scroll_down = "scroll down"
+    scroll_down = "Veja nosso portfólio"
 
   [params.call_to_action]
     enable              = true
@@ -126,7 +129,7 @@ summarylength = 25
         title   = "Mídias Sociais"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
+          url  = "https://www.instagram.com/uiro.intelligence/?igsh=d29wbWw0aWhjaTUw"
       # Footer Service
       #[params.footer.service]
       #  title       = "Ajudamos negócios da bieoconomia:"

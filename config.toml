@@ -135,4 +135,4 @@ summarylength = 25
       #  title       = "Ajudamos negócios da bieoconomia:"
       #  description = "Soluções de captura de dados<br>produce valuable cultural content<br>create fresh brand experience"
       [params.footer.back_to_top]
-        description = "Volte para <br> o início do site"
+        description = "Volte para<br> o início do site"

@@ -61,7 +61,7 @@ Aquicultura – 6 (3,16%) Indústrias Extrativas – 3 (1,58%) Eletricidade E
 Gás – 2 (1,05%) Comércio; Reparação De Veículos Automotores e
 Motocicletas
 
-## Parte 2: Empresas com BIF relacionadas a bioeconomia
+### Parte 2: Empresas com BIF relacionadas a bioeconomia
 
 A base de dados da SEFA-PA identifica o produto principal produzido pela
 empresa que possui o BIF. Como uma forma exploratória de classificação,
@@ -95,7 +95,7 @@ concentram somente 1 empresa cada.
 
 
 <!-- Imagem inserida diretamente no HTML -->
-<img src="/uiro-roxo/images/paint.png" 
+<img src="https://uiro-bi.github.io/uiro-roxo/images/paint.png" 
 alt="Descrição da Imagem" 
 style="width:100%;max-width:900px;display:block;margin:0 auto;"/>
 

@@ -80,6 +80,7 @@ bioeconomia. São eles:
 
 <p>
 <p>
+<p>
 
 #### 37.36% (71) das 190 empresas com Benefício de Isenção Fiscal (BIF) estão relacionadas à bioeconomia.
 <p>

@@ -140,3 +140,13 @@ summarylength = 25
 #to enable HTML in md files
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
+
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0

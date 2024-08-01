@@ -1,15 +1,9 @@
-enable  : false
-title   : "Opinião de pessoas reais"
+enable  : True
+title   : "Clientes"
 subtitle: "Relatos dos clientes sobre nossos serviços"
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
+  - thumb : "images/testimonial/user-thumb-all-black.png"
+    name  : "Thyago Gatto"
+    company_position: "CEO, Tamu Microalgas Amazônicas"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
-
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
-    quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "Parabenizo ao time da UIRO pelo excelente trabalho prestado à Tamu Microalgas Amazônicas. Entenderam muito bem a demanda, a entrega foi antes do prazo estipulado e, principalmente, nos geraram dados muito uteis para a tomada de decisão sobre caminhos a serem traçados no mercado que operamos." 

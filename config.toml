@@ -92,6 +92,7 @@ summarylength = 25
     more_works = "MORE WORKS"
     scroll_down = "Veja nosso portfólio"
 
+
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/pastel-background.png"
@@ -131,7 +132,7 @@ summarylength = 25
           name = "Instagram"
           url  = "https://www.instagram.com/uiro.io?igsh=NjhvbWo4Z2c0NDF5"
       # Footer Service
-      #[params.footer.service]
+      # [params.footer.service]
       #  title       = "Ajudamos negócios da bieoconomia:"
       #  description = "Soluções de captura de dados<br>produce valuable cultural content<br>create fresh brand experience"
       [params.footer.back_to_top]
